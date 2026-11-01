@@ -1043,6 +1043,6 @@ git init
 git add .
 git commit -m "Add complete IIoT lab manual, codes, dataset, and comprehensive viva question bank"
 git branch -M main
-git remote add origin https://github.com/Sayaliii24/IIoT.git
+git remote add origin https://github.com/Sayaliii24/Iiot-.git
 git push -u origin main
 ```
